@@ -1,2 +1,2 @@
 # hosted-control-planes
-Repository to showcase hosted control planes on OCP
+Repository to showcase hosted control planes on OCP.
